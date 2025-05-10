@@ -1,3 +1,6 @@
 [submodule "UXpectations"]
 	path = UXpectations
 	url = https://github.com/nimishathallapally/UXpectations
+[submodule "commercia"]
+	path = commercia
+	url = https://github.com/ishankkumar-007/commercia
